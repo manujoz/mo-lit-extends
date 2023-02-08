@@ -1,0 +1,13 @@
+{
+    "name": "mo-lit-extends",
+    "version": "1.0.0",
+    "description": "Add features to lit element",
+    "author": {
+        "name": "Manu Overa",
+        "email": "manu.overa@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/manujoz/mo-lit-extends"
+    }
+}
