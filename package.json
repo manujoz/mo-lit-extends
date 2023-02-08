@@ -9,5 +9,8 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/manujoz/mo-lit-extends"
+    },
+    "dependencies": {
+        "lit": "^2.6.1"
     }
 }
